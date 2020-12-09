@@ -83,6 +83,11 @@ a.creator::selection {
     font-weight: bold;
 }
 
+.center {
+    text-align: center;
+    align-items: center;
+}
+
 @media screen and (min-width: 1200px) {
     .float-center {
         position: relative;
@@ -141,5 +146,9 @@ a.creator::selection {
 @media screen and (max-width: 358px) {
     div.footer {
         height: 30vh;
+    }
+    .center {
+        padding: 0px;
+        margin: 0px;
     }
 }
