@@ -19,6 +19,6 @@ Técnologias mais usadas no projeto em ordem decrecente
 * CSS 
 
 Pessoal, infelizmente não tem nenhum `.Js` feito por mim, mas pode ser 
-que futuramente eu vá afzer funcionalidades para esse site igual ao quiz que desenvolvi em js puro
+que futuramente eu vá fazer funcionalidades para esse site igual ao quiz que desenvolvi em js puro
 
 **lInk para o quiz**  [Clique Aqui](https://joaofelixx.github.io/app_quiz/)          
